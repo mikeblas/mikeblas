@@ -1,4 +1,6 @@
-## Hi there 👋
+My name is Mike Blaszczak. I'm mostly retired now, but I'm a software engineer who's worked at Microsoft, Valve, Amazon, and Oracle.
+
+The projects here aren't particularly professional--they're my hobby projects. I've been writing some utilities to help with ham radio and do some work with the Wikipedia corpus. My solutions for the [Advent of Code](https://adventofcode.com/) problems are here, too. I've also been fooling around with an implementation of the SQL language, which has been a lot of fun.
 
 <!--
 **mikeblas/mikeblas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
